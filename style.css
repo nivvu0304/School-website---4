@@ -1,0 +1,192 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.img2 {
+    height: 500px;
+    width: 500px;
+}
+
+body {
+    text-align: center;
+}
+
+#img1 {
+    height: 200px;
+    width: 200px;
+}
+
+#map iframe {
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+#footer {
+    height: 20px;
+    background-color: white;
+}
+
+input {
+    background: grey
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.cl_mainDiv {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+.cl_mainDiv img {
+    width: 100%;
+    height: 300px;
+}
+
+.cl_mainDiv hr {
+    width: 100%;
+}
+
+.cl_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+
+#achievementsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+.whats new_li{
+margin-top: 13px;
+}
+
+.whats new_li h4{
+border-bottom: 1px solid white;
+padding: 8px;
+}
+
+.whats new_li p{
+margin-top: 10px;
+}
+
+.whats new_li img{
+border-radius: 25px;
+}
+.wn img{
+    height: 400px;
+    width: 400px;
+}
+.h{
+    line-height: 2;
+}
+
+.our alumni{
+    cursor: pointer;
+}
+
+.our alumni hr{
+    margin-bottom: 10px;
+}
+
+.modal-content{
+    margin-top: 100px;
+}
+
+.img_modal{
+    display: inline-block;
+}
+
+.p_modal{
+    margin-top: 10px;
+}
+
+.modal-body{
+    text-align:center;
+}
+
+.h{
+    line-height: 2;
+}
+
+.book{
+    cursor: pointer;
+}
+
+.book hr{
+    margin-bottom: 10px;
+}
+
+.modal-content{
+    margin-top: 100px;
+}
+
+.img_modal{
+    display: inline-block;
+}
+
+.p_modal{
+    margin-top: 10px;
+}
+
+.modal-body{
+    text-align:center;
+}
+
+.oa img{
+    max-width: 100%;
+    height: auto;
+}
